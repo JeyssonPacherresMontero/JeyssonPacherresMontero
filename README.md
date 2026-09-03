@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E75B2&height=220&section=header&text=Hola,%20soy%20Paiva&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniería%20de%20Sistemas%20e%20Informática%20%7C%20UTP%20%7C%20Piura,%20Perú&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E75B2&height=220&section=header&text=Hola,%20soy%20Jeysson_Pacherres&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniería%20de%20Sistemas%20e%20Informática%20%7C%20%20%7C%20Piura,%20Perú&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=650&lines=Automatizando+flujos+con+n8n+%2B+Telegram;Backend+real+en+PHP+%2F+MySQL;Integrando+IA+en+proyectos+de+producci%C3%B3n;Aprendiendo+algo+nuevo+cada+d%C3%ADa" />
 
