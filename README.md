@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Paiva 👋</h1>
+<h1 align="center">¡Hola! Soy Jeysson Pacherres 👋</h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas e Informática @ UTP | Piura, Perú</h3>
 
 <p align="center">
@@ -94,8 +94,8 @@
 ### 📫 Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:TU_CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jeysson-david-pacherres-montero-a6b7173a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jeysonmontero3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
