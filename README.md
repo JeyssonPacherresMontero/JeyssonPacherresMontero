@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/JeyssonPacherresMontero.png?size=200" alt="Jeysson David Pacherres Montero" width="200" height="200" style="border-radius: 50%; border: 4px solid #2E9EF7;" />
+<img  alt="Jeysson David Pacherres Montero" width="200" height="200" style="border-radius: 50%; border: 4px solid #2E9EF7;" />
 
 <br/>
 
