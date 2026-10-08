@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Jeysson Pacherres - Backend, Automatizacion e IA" width="100%" />
+<img src="./assets/header.svg" alt="Jeysson Pacherres - Backend, Automatizacion e IA" width="100%" />
 
 <br/>
 
@@ -16,7 +16,7 @@
   ANIME: pon tu propio GIF o arte en assets/anime.gif (o .png) y descomenta.
   Se sirve desde el repo, asi nunca se rompe como los links externos.
 
-<div align="center"><img src="assets/anime.gif" width="480" alt="" /></div>
+<div align="center"><img src="./assets/anime.gif" width="480" alt="" /></div>
 -->
 
 ---
@@ -26,7 +26,7 @@
 Estudiante de **Ingenieria de Sistemas e Informatica** en la UTP. Automatizo flujos de negocio reales con herramientas free-tier: backend en PHP y Python, bots, APIs e IA.
 
 <div align="center">
-<img src="assets/poder.svg" alt="Nivel de poder: habilidades tecnicas" width="85%" />
+<img src="./assets/poder.svg" alt="Nivel de poder: habilidades tecnicas" width="85%" />
 </div>
 
 <div align="center">
@@ -47,12 +47,12 @@ Estudiante de **Ingenieria de Sistemas e Informatica** en la UTP. Automatizo flu
 
 <table align="center">
 <tr>
-<td width="50%"><img src="assets/panel-asistencia.svg" alt="Sistema de asistencia biometrico ZKTeco" /></td>
-<td width="50%"><img src="assets/panel-marketplace.svg" alt="Bot de automatizacion para Marketplace" /></td>
+<td width="50%"><img src="./assets/panel-asistencia.svg" alt="Sistema de asistencia biometrico ZKTeco" /></td>
+<td width="50%"><img src="./assets/panel-marketplace.svg" alt="Bot de automatizacion para Marketplace" /></td>
 </tr>
 <tr>
-<td width="50%"><img src="assets/panel-academico.svg" alt="Asistente academico en n8n" /></td>
-<td width="50%"><img src="assets/panel-web.svg" alt="Propuesta web Ing. Sistemas UTP" /></td>
+<td width="50%"><img src="./assets/panel-academico.svg" alt="Asistente academico en n8n" /></td>
+<td width="50%"><img src="./assets/panel-web.svg" alt="Propuesta web Ing. Sistemas UTP" /></td>
 </tr>
 </table>
 
