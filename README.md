@@ -1,13 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E75B2&height=220&section=header&text=Hola,%20soy%20Jeysson%20Pacherres&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=30" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E75B2&height=220&section=header&text=Hola,%20soy%20Jeysson%20David%20Pacherres%20Montero&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=30" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=650&lines=Automatizando+flujos+con+n8n+%2B+Telegram;Backend+%7C+IA+%7C+Automatización;Construyendo+soluciones+reales" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=700&lines=Automatizando+flujos+con+n8n+%2B+Telegram;Backend+%7C+IA+%7C+Automatización;Construyendo+soluciones+reales" />
 
 <br/>
 
+<a href="https://github.com/JeyssonPacherresMontero"><img src="https://img.shields.io/badge/GitHub-JeyssonPacherresMontero-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/jeysson-david-pacherres-montero-a6b7173a3/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-Jeysson%20Pacherres-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:jeysonmontero3@gmail.com"><img src="https://img.shields.io/badge/Gmail-jeysonmontero3%40gmail.com-D14836?style=for-the-badge&logo=gmail" /></a>
+
 <img src="https://komarev.com/ghpvc/?username=JeyssonPacherresMontero&label=Visitas+al+perfil&color=2E9EF7&style=for-the-badge" />
-<img src="https://img.shields.io/badge/UTP-Piura,%20Perú-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UTP-Piura,%20Per%C3%BA-0A66C2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Estado-Disponible%20para%20colaborar-brightgreen?style=for-the-badge" />
 
 </div>
@@ -96,12 +100,12 @@ Propuesta completa de página web para la carrera: sketch en papel, storyboard d
 ## 📊 Actividad en GitHub
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JeyssonPacherresMontero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeyssonPacherresMontero&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JeyssonPacherresMontero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeyssonPacherresMontero&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeyssonPacherresMontero&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=JeyssonPacherresMontero&theme=tokyonight&hide_border=true" width="70%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeyssonPacherresMontero&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeyssonPacherresMontero&theme=tokyo-night&hide_border=true&custom_title=Actividad%20reciente" width="95%" />
 </div>
 
 <br/>
@@ -114,13 +118,11 @@ Propuesta completa de página web para la carrera: sketch en papel, storyboard d
 
 <br/>
 
-## 🐍 Contribuciones (animación)
+## 🐍 Perfil
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/JeyssonPacherresMontero/JeyssonPacherresMontero/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github.com/JeyssonPacherresMontero.png?size=220" alt="JeyssonPacherresMontero" width="180" />
 </div>
-
-> Esta animación se genera sola con un GitHub Action. Instrucciones abajo 👇
 
 <br/>
 
@@ -132,4 +134,6 @@ Propuesta completa de página web para la carrera: sketch en papel, storyboard d
 <a href="https://github.com/JeyssonPacherresMontero"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E75B2,100:2E9EF7&height=100&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E75B2,100:2E9EF7&height=100&section=footer" width="100%" />
