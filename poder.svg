@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 390" width="100%">
+<defs>
+<pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.6" fill="#ffffff" opacity="0.10"/></pattern>
+<linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff7a18"/><stop offset="1" stop-color="#ffcc33"/></linearGradient>
+<linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2E9EF7"/><stop offset="1" stop-color="#1b4fd8"/></linearGradient>
+</defs>
+<style>.t{font-family:Impact, 'Arial Black', 'Segoe UI', sans-serif;} .b{font-family:'Comic Sans MS', 'Segoe UI', Arial, sans-serif;}
+@keyframes aura{0%,100%{opacity:.55}50%{opacity:1}} .aura{animation:aura 2s ease-in-out infinite}</style>
+<rect width="900" height="390" fill="#0b1220"/><rect width="900" height="390" fill="url(#dots)"/>
+<rect x="6" y="6" width="888" height="378" fill="none" stroke="#fff" stroke-width="6"/>
+<rect class="aura" x="6" y="6" width="888" height="6" fill="#ffcc33"/>
+<text x="30" y="58" class="t" font-size="42" fill="#ffe27a" stroke="#0b1220" stroke-width="2" paint-order="stroke">NIVEL DE PODER</text>
+<text x="330" y="58" class="b" font-size="14" fill="#fff" opacity="0.8">(autoevaluado, sin scouter)</text>
+<text x="30" y="108" class="b" font-size="14" font-weight="bold" fill="#fff">AUTOMATIZACION n8n</text>
+<rect x="260" y="92" width="520" height="22" fill="#1c2740" stroke="#fff" stroke-width="2" transform="skewX(-12) translate(22,0)"/>
+<rect x="260" y="92" width="0" height="22" fill="url(#g1)" transform="skewX(-12) translate(22,0)"><animate attributeName="width" from="0" to="478" dur="1.4s" begin="0.0s" fill="freeze"/></rect>
+<text x="800" y="109" class="t" font-size="18" fill="#ffe27a">9200</text><text x="30" y="148" class="b" font-size="14" font-weight="bold" fill="#fff">BACKEND PHP</text>
+<rect x="260" y="132" width="520" height="22" fill="#1c2740" stroke="#fff" stroke-width="2" transform="skewX(-12) translate(22,0)"/>
+<rect x="260" y="132" width="0" height="22" fill="url(#g1)" transform="skewX(-12) translate(22,0)"><animate attributeName="width" from="0" to="447" dur="1.4s" begin="0.15s" fill="freeze"/></rect>
+<text x="800" y="149" class="t" font-size="18" fill="#ffe27a">8600</text><text x="30" y="188" class="b" font-size="14" font-weight="bold" fill="#fff">MYSQL</text>
+<rect x="260" y="172" width="520" height="22" fill="#1c2740" stroke="#fff" stroke-width="2" transform="skewX(-12) translate(22,0)"/>
+<rect x="260" y="172" width="0" height="22" fill="url(#g1)" transform="skewX(-12) translate(22,0)"><animate attributeName="width" from="0" to="426" dur="1.4s" begin="0.3s" fill="freeze"/></rect>
+<text x="800" y="189" class="t" font-size="18" fill="#ffe27a">8200</text><text x="30" y="228" class="b" font-size="14" font-weight="bold" fill="#fff">INTEGRACION DE APIs</text>
+<rect x="260" y="212" width="520" height="22" fill="#1c2740" stroke="#fff" stroke-width="2" transform="skewX(-12) translate(22,0)"/>
+<rect x="260" y="212" width="0" height="22" fill="url(#g1)" transform="skewX(-12) translate(22,0)"><animate attributeName="width" from="0" to="436" dur="1.4s" begin="0.44999999999999996s" fill="freeze"/></rect>
+<text x="800" y="229" class="t" font-size="18" fill="#ffe27a">8400</text><text x="30" y="268" class="b" font-size="14" font-weight="bold" fill="#fff">PYTHON</text>
+<rect x="260" y="252" width="520" height="22" fill="#1c2740" stroke="#fff" stroke-width="2" transform="skewX(-12) translate(22,0)"/>
+<rect x="260" y="252" width="0" height="22" fill="url(#g1)" transform="skewX(-12) translate(22,0)"><animate attributeName="width" from="0" to="395" dur="1.4s" begin="0.6s" fill="freeze"/></rect>
+<text x="800" y="269" class="t" font-size="18" fill="#ffe27a">7600</text><text x="30" y="308" class="b" font-size="14" font-weight="bold" fill="#fff">IA / LLMs</text>
+<rect x="260" y="292" width="520" height="22" fill="#1c2740" stroke="#fff" stroke-width="2" transform="skewX(-12) translate(22,0)"/>
+<rect x="260" y="292" width="0" height="22" fill="url(#g1)" transform="skewX(-12) translate(22,0)"><animate attributeName="width" from="0" to="416" dur="1.4s" begin="0.75s" fill="freeze"/></rect>
+<text x="800" y="309" class="t" font-size="18" fill="#ffe27a">8000</text><text x="30" y="348" class="b" font-size="14" font-weight="bold" fill="#fff">JAVASCRIPT / REACT</text>
+<rect x="260" y="332" width="520" height="22" fill="#1c2740" stroke="#fff" stroke-width="2" transform="skewX(-12) translate(22,0)"/>
+<rect x="260" y="332" width="0" height="22" fill="url(#g1)" transform="skewX(-12) translate(22,0)"><animate attributeName="width" from="0" to="343" dur="1.4s" begin="0.8999999999999999s" fill="freeze"/></rect>
+<text x="800" y="349" class="t" font-size="18" fill="#ffe27a">6600</text>
+</svg>

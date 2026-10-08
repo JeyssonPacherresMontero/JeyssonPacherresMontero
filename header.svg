@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 330" width="100%">
+<defs>
+<pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.6" fill="#ffffff" opacity="0.10"/></pattern>
+<linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff7a18"/><stop offset="1" stop-color="#ffcc33"/></linearGradient>
+<linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2E9EF7"/><stop offset="1" stop-color="#1b4fd8"/></linearGradient>
+</defs>
+<style>
+.t{font-family:Impact, 'Arial Black', 'Segoe UI', sans-serif;} .b{font-family:'Comic Sans MS', 'Segoe UI', Arial, sans-serif;}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.07)}}
+@keyframes slide{from{transform:translateX(-30px);opacity:0}to{transform:translateX(0);opacity:1}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+.pow{transform-origin:850px 255px;animation:pulse 1.6s ease-in-out infinite}
+.ttl{animation:slide .9s ease-out both}
+.cur{animation:blink 1s steps(1) infinite}
+</style>
+<rect width="1000" height="330" fill="#0b1220"/>
+<rect width="1000" height="330" fill="url(#dots)"/>
+<polygon points="12,12 600,12 560,318 12,318" fill="url(#g2)" stroke="#fff" stroke-width="6"/>
+<polygon points="12,12 600,12 560,318 12,318" fill="url(#dots)"/>
+<polygon points="614,12 988,12 988,150 580,150" fill="url(#g1)" stroke="#fff" stroke-width="6"/>
+<polygon points="614,12 988,12 988,150 580,150" fill="url(#dots)"/>
+<polygon points="574,164 988,164 988,318 566,318" fill="#e8344e" stroke="#fff" stroke-width="6"/>
+<polygon points="574,164 988,164 988,318 566,318" fill="url(#dots)"/>
+<g class="ttl">
+<text x="44" y="110" class="b" font-size="20" fill="#ffe27a" font-weight="bold">CAPITULO 1</text>
+<text x="40" y="190" class="t" font-size="74" fill="#fff" stroke="#0b1220" stroke-width="2" paint-order="stroke">JEYSSON</text>
+<text x="40" y="262" class="t" font-size="74" fill="#ffe27a" stroke="#0b1220" stroke-width="2" paint-order="stroke">PACHERRES</text>
+<text x="44" y="298" class="b" font-size="18" fill="#fff">Backend  /  Automatizacion  /  IA<tspan class="cur">_</tspan></text>
+</g>
+<g transform="translate(640,30)">
+<path d="M0,10 Q0,0 12,0 L300,0 Q312,0 312,10 L312,70 Q312,80 300,80 L60,80 L30,104 L38,80 L12,80 Q0,80 0,70 Z" fill="#fff" stroke="#0b1220" stroke-width="4"/>
+<text x="156" y="36" text-anchor="middle" class="b" font-size="19" font-weight="bold" fill="#0b1220">Automatizo lo que otros</text>
+<text x="156" y="62" text-anchor="middle" class="b" font-size="19" font-weight="bold" fill="#0b1220">todavia hacen a mano.</text>
+</g>
+<text x="780" y="222" class="b" font-size="20" fill="#fff" font-weight="bold">n8n + Telegram + IA</text>
+<text x="600" y="292" class="b" font-size="16" fill="#fff">Piura, Peru  |  Ing. de Sistemas, UTP</text>
+<g class="pow">
+<polygon points="850,170 866,206 905,196 888,232 930,246 886,262 906,300 862,284 850,312 836,284 794,300 814,262 770,246 812,232 795,196 834,206" fill="#ffe27a" stroke="#0b1220" stroke-width="4"/>
+<text x="850" y="252" text-anchor="middle" class="t" font-size="34" fill="#e8344e" stroke="#0b1220" stroke-width="1">AUTO!</text>
+</g>
+</svg>
