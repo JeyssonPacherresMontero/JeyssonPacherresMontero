@@ -2,7 +2,7 @@
 
 <img src="./header.svg" alt="Jeysson Pacherres — Backend, automatización e inteligencia artificial" width="100%" />
 
-<img src="./one-piece-banner.jpg" alt="Fan art de One Piece: Luffy, Zoro y banderas piratas con símbolos de código" width="100%" />
+<img src="./one-piece-banner.jpg" alt="Fan art de One Piece: Luffy, Shanks, Ace y banderas piratas con símbolos de código" width="100%" />
 
 <br/>
 
