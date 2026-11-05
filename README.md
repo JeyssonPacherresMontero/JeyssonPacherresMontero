@@ -1,116 +1,101 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Jeysson Pacherres - Backend, Automatizacion e IA" width="100%" />
+<img src="./header.svg" alt="Jeysson Pacherres — Backend, automatización e inteligencia artificial" width="100%" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/jeysson-david-pacherres-montero-a6b7173a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:jeysonmontero3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="mailto:jeysonmontero3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico" /></a>
 <a href="https://github.com/JeyssonPacherresMontero"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://img.shields.io/badge/Piura%2C%20Peru-0A66C2?style=for-the-badge" alt="Piura, Peru" />
+<img src="https://img.shields.io/badge/Piura%2C%20Per%C3%BA-0A66C2?style=for-the-badge" alt="Ubicación: Piura, Perú" />
 <img src="https://img.shields.io/badge/Disponible%20para%20colaborar-2ea44f?style=for-the-badge" alt="Disponible para colaborar" />
 
 </div>
 
-<!--
-  ANIME: pon tu propio GIF o arte en assets/anime.gif (o .png) y descomenta.
-  Se sirve desde el repo, asi nunca se rompe como los links externos.
-
-<div align="center"><img src="./assets/anime.gif" width="480" alt="" /></div>
--->
-
 ---
 
-## Sobre mi
+## Sobre mí
 
-Estudiante de **Ingenieria de Sistemas e Informatica** en la UTP. Automatizo flujos de negocio reales con herramientas free-tier: backend en PHP y Python, bots, APIs e IA.
+Estudiante de **Ingeniería de Sistemas e Informática** en la UTP. Desarrollo soluciones orientadas a procesos reales mediante backend, automatización, APIs e inteligencia artificial.
 
 <div align="center">
-<img src="./assets/poder.svg" alt="Nivel de poder: habilidades tecnicas" width="85%" />
+<img src="./poder.svg" alt="Panel visual de habilidades técnicas" width="85%" />
 </div>
 
+### Tecnologías y herramientas
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,python,js,react,mysql,docker,git,github,figma&theme=dark" alt="Stack" />
+<img src="https://skillicons.dev/icons?i=php,python,js,react,mysql,docker,git,github,figma&theme=dark" alt="PHP, Python, JavaScript, React, MySQL, Docker, Git, GitHub y Figma" />
 <br/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge" alt="n8n" />
 <img src="https://img.shields.io/badge/Telegram%20API-26A5E4?style=for-the-badge" alt="Telegram API" />
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq" />
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge" alt="Gemini" />
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge" alt="Google Gemini" />
 <img src="https://img.shields.io/badge/ZKTeco-000000?style=for-the-badge" alt="ZKTeco" />
 
 </div>
 
 ---
 
-## Capitulo 2: Proyectos
+## Proyectos destacados
 
 <table align="center">
 <tr>
-<td width="50%"><img src="./assets/panel-asistencia.svg" alt="Sistema de asistencia biometrico ZKTeco" /></td>
-<td width="50%"><img src="./assets/panel-marketplace.svg" alt="Bot de automatizacion para Marketplace" /></td>
+<td width="50%"><img src="./panel-asistencia.svg" alt="Panel del sistema de asistencia biométrica ZKTeco" width="100%" /></td>
+<td width="50%"><img src="./panel-marketplace.svg" alt="Panel del bot de automatización para Marketplace" width="100%" /></td>
 </tr>
 <tr>
-<td width="50%"><img src="./assets/panel-academico.svg" alt="Asistente academico en n8n" /></td>
-<td width="50%"><img src="./assets/panel-web.svg" alt="Propuesta web Ing. Sistemas UTP" /></td>
+<td width="50%"><img src="./panel-academico.svg" alt="Panel del asistente académico desarrollado con n8n" width="100%" /></td>
+<td width="50%"><img src="./panel-web.svg" alt="Panel de propuesta web para Ingeniería de Sistemas UTP" width="100%" /></td>
 </tr>
 </table>
 
----
+### 01 · Sistema de asistencia biométrica
 
-## Detalle de cada panel
+Gestión de asistencia conectada a un reloj **ZKTeco** por IP. Backend en PHP y MySQL con reportes y control de accesos.
 
-<details>
-<summary><b>01 - Sistema de asistencia biometrico</b> (produccion)</summary>
-<br/>
+`PHP` `MySQL` `ZKTeco`
 
-Gestion de asistencia conectada a un reloj **ZKTeco** por IP. Backend PHP + MySQL con reportes y control de accesos, usado en una empresa real.
+### 02 · Bot para Marketplace
 
-`PHP` `MySQL` `ZKTeco SDK`
-</details>
+Flujo de Telegram que automatiza publicaciones en Facebook Marketplace. **n8n** orquesta el proceso y **Google Gemini** analiza imágenes de productos.
 
-<details>
-<summary><b>02 - Bot Marketplace</b> (proyecto final)</summary>
-<br/>
+`n8n` `Google Gemini` `Telegram API`
 
-Bot de Telegram que automatiza publicaciones en Facebook Marketplace. **n8n** orquesta el flujo y **Google Gemini** analiza las imagenes de los productos.
+### 03 · Asistente académico
 
-`n8n` `Gemini API` `Telegram API`
-</details>
+Bot de Telegram con contexto de conversación e historial, ejecutado con **Groq (Llama 3 70B)** mediante un flujo de n8n.
 
-<details>
-<summary><b>03 - Asistente academico</b> (13 nodos)</summary>
-<br/>
+`n8n` `Groq` `Telegram API`
 
-Bot de Telegram con prompting contextual, historial de conversacion y resumenes automaticos, corriendo sobre **Groq (Llama 3 70B)** sin pagar nada.
+### 04 · Propuesta web UTP
 
-`n8n` `Groq API` `Telegram API`
-</details>
-
-<details>
-<summary><b>04 - Propuesta web UTP</b></summary>
-<br/>
-
-Sketch en papel, storyboard digital, wireframe estatico y wireframe interactivo.
+Propuesta de experiencia web para Ingeniería de Sistemas, desarrollada mediante sketch, storyboard y wireframes en Figma.
 
 `UX/UI` `Wireframing` `Figma`
-</details>
 
 ---
 
-## Capitulo 3: Actividad
+## Actividad en GitHub
+
+La animación de contribuciones depende de la ejecución del workflow del repositorio. Si no se muestra, puedes consultar directamente [mis contribuciones en GitHub](https://github.com/JeyssonPacherresMontero).
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeyssonPacherresMontero/JeyssonPacherresMontero/output/snake-dark.svg" />
-  <img alt="Contribuciones" src="https://raw.githubusercontent.com/JeyssonPacherresMontero/JeyssonPacherresMontero/output/snake.svg" />
+  <img alt="Animación de contribuciones de GitHub" src="https://raw.githubusercontent.com/JeyssonPacherresMontero/JeyssonPacherresMontero/output/snake.svg" width="100%" />
 </picture>
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JeyssonPacherresMontero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadisticas" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeyssonPacherresMontero&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes" />
+<a href="https://github.com/JeyssonPacherresMontero">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JeyssonPacherresMontero&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de Jeysson Pacherres" />
+</a>
+<a href="https://github.com/JeyssonPacherresMontero">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeyssonPacherresMontero&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados en GitHub" />
+</a>
 
 </div>
 
@@ -118,7 +103,7 @@ Sketch en papel, storyboard digital, wireframe estatico y wireframe interactivo.
 
 <div align="center">
 
-**Continuara...** Si algo de aqui te sirvio, deja una estrella en mis repos.
+**Gracias por visitar mi perfil.**
 
 </div>
 
