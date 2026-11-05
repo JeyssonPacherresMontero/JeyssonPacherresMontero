@@ -79,7 +79,7 @@ Propuesta de experiencia web para Ingeniería de Sistemas, desarrollada mediante
 
 ## Actividad en GitHub
 
-La animación de contribuciones depende de la ejecución del workflow del repositorio. Si no se muestra, puedes consultar directamente [mis contribuciones en GitHub](https://github.com/JeyssonPacherresMontero).
+La animación se genera automáticamente y se publica en la rama `output`. También puedes consultar [mis contribuciones en GitHub](https://github.com/JeyssonPacherresMontero).
 
 <div align="center">
 
@@ -88,13 +88,21 @@ La animación de contribuciones depende de la ejecución del workflow del reposi
   <img alt="Animación de contribuciones de GitHub" src="https://raw.githubusercontent.com/JeyssonPacherresMontero/JeyssonPacherresMontero/output/snake.svg" width="100%" />
 </picture>
 
-<br/><br/>
+</div>
+
+---
+
+## Estadísticas e idiomas
+
+Estas tarjetas muestran datos públicos de la cuenta **JeyssonPacherresMontero**. Si el proveedor de imágenes tarda en responder, puedes ver los datos directamente en [mi perfil de GitHub](https://github.com/JeyssonPacherresMontero) y en [mis repositorios](https://github.com/JeyssonPacherresMontero?tab=repositories).
+
+<div align="center">
 
 <a href="https://github.com/JeyssonPacherresMontero">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JeyssonPacherresMontero&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de Jeysson Pacherres" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeyssonPacherresMontero&theme=tokyonight" alt="Estadísticas de GitHub de Jeysson Pacherres Montero" />
 </a>
-<a href="https://github.com/JeyssonPacherresMontero">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeyssonPacherresMontero&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados en GitHub" />
+<a href="https://github.com/JeyssonPacherresMontero?tab=repositories">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeyssonPacherresMontero&theme=tokyonight" alt="Idiomas con más commits de Jeysson Pacherres Montero" />
 </a>
 
 </div>
