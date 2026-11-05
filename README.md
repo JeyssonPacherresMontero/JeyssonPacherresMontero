@@ -2,6 +2,8 @@
 
 <img src="./header.svg" alt="Jeysson Pacherres — Backend, automatización e inteligencia artificial" width="100%" />
 
+<img src="./one-piece-banner.jpg" alt="Fan art de One Piece: Luffy, Zoro y banderas piratas con símbolos de código" width="100%" />
+
 <br/>
 
 <a href="https://www.linkedin.com/in/jeysson-david-pacherres-montero-a6b7173a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
