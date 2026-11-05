@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" alt="Jeysson Pacherres — Backend, automatización e inteligencia artificial" width="100%" />
-
-<img src="./one-piece-banner.jpg" alt="Fan art de One Piece: Luffy, Shanks, Ace y banderas piratas con símbolos de código" width="100%" />
+<img src="./one-piece-banner.jpg" alt="Jeysson Pacherres Montero con Luffy, Shanks y Ace en una ilustración de One Piece" width="100%" />
 
 <br/>
 
