@@ -2,9 +2,9 @@
 
 <img src="./profile-banner.svg" alt="Jeysson Pacherres — Ingeniería de Sistemas, backend, automatización y datos" width="100%" />
 
-<a href="https://www.linkedin.com/in/jeysson-david-pacherres-montero-a6b7173a3/">LinkedIn</a> ·
-<a href="mailto:jeysonmontero3@gmail.com">Correo</a> ·
-<a href="https://github.com/JeyssonPacherresMontero?tab=repositories">Repositorios</a>
+<a href="https://www.linkedin.com/in/jeysson-david-pacherres-montero-a6b7173a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:jeysonmontero3@gmail.com"><img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo" /></a>
+<a href="https://github.com/JeyssonPacherresMontero?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorios" /></a>
 
 </div>
 
@@ -22,6 +22,10 @@ Me enfoco en aprender mediante proyectos y en crear herramientas que resuelvan n
 - **Automatización e integración:** n8n, APIs REST, Telegram API
 - **Herramientas:** Git, GitHub, Docker, Figma
 - **IA aplicada:** integración de modelos y APIs de inteligencia artificial
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=php,python,js,react,nextjs,nestjs,mysql,postgres,docker,git,github,figma&theme=dark" alt="Iconos de PHP, Python, JavaScript, React, Next.js, NestJS, MySQL, PostgreSQL, Docker, Git, GitHub y Figma" />
+</div>
 
 ## Proyectos seleccionados
 
@@ -55,9 +59,9 @@ Universidad Tecnológica del Perú (UTP)
 
 ## Enlaces
 
-- [Ver mis repositorios](https://github.com/JeyssonPacherresMontero?tab=repositories)
-- [Ver mi actividad en GitHub](https://github.com/JeyssonPacherresMontero)
-- [Contactarme por LinkedIn](https://www.linkedin.com/in/jeysson-david-pacherres-montero-a6b7173a3/)
+<a href="https://github.com/JeyssonPacherresMontero?tab=repositories"><img src="https://img.shields.io/badge/Explorar%20proyectos-0f766e?style=flat-square&logo=github&logoColor=white" alt="Explorar proyectos" /></a>
+<a href="https://github.com/JeyssonPacherresMontero"><img src="https://img.shields.io/badge/Actividad-334155?style=flat-square&logo=github&logoColor=white" alt="Actividad de GitHub" /></a>
+<a href="https://www.linkedin.com/in/jeysson-david-pacherres-montero-a6b7173a3/"><img src="https://img.shields.io/badge/Conectar%20en%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Conectar en LinkedIn" /></a>
 
 ---
 
