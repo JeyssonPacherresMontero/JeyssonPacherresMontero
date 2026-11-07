@@ -1,34 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-<title id="title">Jeysson David Pacherres Montero</title>
-<desc id="desc">Ingeniería de Sistemas e Informática. Backend, automatización e inteligencia artificial.</desc>
+<title id="title">Jeysson Pacherres — Ingeniería de Sistemas e Informática</title>
+<desc id="desc">Banner profesional con detalles animados de código, conexiones y tecnología.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#0b1220"/>
-    <stop offset="1" stop-color="#14283d"/>
-  </linearGradient>
-  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#38bdf8"/>
-    <stop offset="1" stop-color="#34d399"/>
-  </linearGradient>
-  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-    <path d="M32 0H0V32" fill="none" stroke="#9fb4c8" stroke-opacity=".08"/>
-  </pattern>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#14283d"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9fb4c8" stroke-opacity=".08"/></pattern>
+  <filter id="softGlow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
+<style>
+  text{font-family:Inter,Segoe UI,Arial,sans-serif}
+  .name{font-size:47px;font-weight:750;letter-spacing:1px}
+  .subtitle{font-size:19px;letter-spacing:2px}
+  .mono{font:17px ui-monospace,SFMono-Regular,Consolas,monospace}
+  .node{animation:pulse 3s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+  .node2{animation:pulse 3s ease-in-out 1s infinite;transform-box:fill-box;transform-origin:center}
+  .cursor{animation:blink 1.2s steps(2) infinite}
+  .circuit{animation:flow 8s linear infinite}
+  .bracket{animation:float 5s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:.55;transform:scale(.85)}50%{opacity:1;transform:scale(1.2)}}
+  @keyframes blink{50%{opacity:0}}
+  @keyframes flow{from{stroke-dashoffset:0}to{stroke-dashoffset:-40}}
+  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+  @media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important}}
+</style>
 <rect width="1200" height="280" rx="18" fill="url(#bg)"/>
 <rect width="1200" height="280" rx="18" fill="url(#grid)"/>
-<rect x="0" y="0" width="9" height="280" rx="4" fill="url(#accent)"/>
-<text x="66" y="105" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="47" font-weight="700" letter-spacing="1">JEYSSON PACHERRES</text>
-<text x="70" y="151" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" letter-spacing="2">INGENIERÍA DE SISTEMAS E INFORMÁTICA · UTP</text>
+<rect width="8" height="280" rx="4" fill="url(#accent)"/>
+<text x="66" y="105" class="name" fill="#f8fafc">JEYSSON PACHERRES</text>
+<text x="70" y="151" class="subtitle" fill="#cbd5e1">INGENIERÍA DE SISTEMAS E INFORMÁTICA · UTP</text>
 <rect x="70" y="180" width="440" height="2" rx="1" fill="url(#accent)"/>
-<text x="70" y="218" fill="#94a3b8" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="17">&lt;backend /&gt;  ·  automatización  ·  datos  ·  IA</text>
-<g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".75">
-  <path d="M850 72h115l36 36h100M850 140h75l45-45h100M850 208h110l42-42h99"/>
-  <path d="M930 72v136M1000 108v58M1100 108v58"/>
+<text x="70" y="218" class="mono" fill="#94a3b8">&lt;backend /&gt; · automatización · datos · IA<tspan class="cursor" fill="#34d399">_</tspan></text>
+<g class="bracket" fill="#7dd3fc" opacity=".28" font-family="monospace" font-size="36">
+<text x="560" y="86">{ }</text><text x="730" y="225">&lt;/&gt;</text>
 </g>
-<g fill="#0b1220" stroke="#38bdf8" stroke-width="3">
-  <circle cx="850" cy="72" r="7"/><circle cx="850" cy="140" r="7"/><circle cx="850" cy="208" r="7"/>
-  <circle cx="965" cy="72" r="7"/><circle cx="1001" cy="108" r="7"/><circle cx="1001" cy="166" r="7"/>
-  <circle cx="1101" cy="108" r="7"/><circle cx="1101" cy="166" r="7"/><circle cx="1101" cy="108" r="7"/>
+<g class="circuit" fill="none" stroke="url(#accent)" stroke-width="2" stroke-dasharray="7 9" opacity=".75">
+<path d="M850 72h115l36 36h100M850 140h75l45-45h100M850 208h110l42-42h99"/>
+<path d="M930 72v136M1000 108v58M1100 108v58"/>
 </g>
-<text x="1000" y="248" text-anchor="middle" fill="#64748b" font-family="ui-monospace,Consolas,monospace" font-size="13">build · integrate · improve</text>
+<g fill="#0b1220" stroke="#38bdf8" stroke-width="3" filter="url(#softGlow)">
+<circle class="node" cx="850" cy="72" r="7"/><circle class="node2" cx="850" cy="140" r="7"/><circle class="node" cx="850" cy="208" r="7"/>
+<circle class="node2" cx="965" cy="72" r="7"/><circle class="node" cx="1001" cy="108" r="7"/><circle class="node2" cx="1001" cy="166" r="7"/>
+<circle class="node" cx="1101" cy="108" r="7"/><circle class="node2" cx="1101" cy="166" r="7"/>
+</g>
+<text x="1000" y="248" text-anchor="middle" fill="#64748b" font-family="monospace" font-size="13">build · integrate · improve</text>
 </svg>
