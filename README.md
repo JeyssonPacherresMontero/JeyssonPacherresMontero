@@ -70,7 +70,7 @@ Proyecto académico de análisis de comportamiento financiero y morosidad estudi
 
 <br/>
 
-<img src="https://img.shields.io/endpoint?url=https://komarev.com/ghpvc/?username=JeyssonPacherresMontero&style=flat-square&color=0f766e" alt="Contador de visitas al perfil" />
+<img src="https://komarev.com/ghpvc/?username=JeyssonPacherresMontero&style=flat-square&color=0f766e&label=Visitas%20al%20perfil" alt="Contador de visitas al perfil" />
 
 </div>
 
