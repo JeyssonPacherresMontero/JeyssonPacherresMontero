@@ -52,6 +52,28 @@ Asistente conversacional en Telegram con gestión de contexto e integración con
 ### Data Warehouse académico
 Proyecto académico de análisis de comportamiento financiero y morosidad estudiantil mediante un modelo dimensional.
 
+## Actividad y contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeyssonPacherresMontero/JeyssonPacherresMontero/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/JeyssonPacherresMontero/JeyssonPacherresMontero/output/snake.svg" alt="Animación del recorrido por mis contribuciones de GitHub" width="100%" />
+</picture>
+
+<a href="https://github.com/JeyssonPacherresMontero">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeyssonPacherresMontero&theme=github_dark" alt="Resumen de estadísticas de GitHub" />
+</a>
+<a href="https://github.com/JeyssonPacherresMontero?tab=repositories">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeyssonPacherresMontero&theme=github_dark" alt="Lenguajes con más commits en mis repositorios" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/endpoint?url=https://komarev.com/ghpvc/?username=JeyssonPacherresMontero&style=flat-square&color=0f766e" alt="Contador de visitas al perfil" />
+
+</div>
+
 ## Formación
 
 **Ingeniería de Sistemas e Informática**  
